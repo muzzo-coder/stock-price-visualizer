@@ -36,8 +36,5 @@ A Python-based application for monitoring and analyzing stock prices in real-tim
 - **stock_data_log.txt**: Logs real-time stock data with timestamps.
 - **stock_data_export.csv**: Exported stock data for further analysis.
 
-## Screenshots
-_Add screenshots or visuals here if necessary._
-
 ## License
 This project is licensed under the MIT License.
